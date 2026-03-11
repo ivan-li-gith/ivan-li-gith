@@ -7,7 +7,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/li-ivan) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,c,cpp,py,aws,docker,flask,git,github,html,linkedin,maven,mysql,nodejs,raspberrypi,react&perline=8)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,c,cpp,py,aws,docker,flask,git,github,html,linkedin,maven,mysql,nodejs,raspberrypi,react&perline=8" />
+  </a>
+</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-li-gith&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
