@@ -1,33 +1,35 @@
-# Hi there 👋
-<p aligh="center">
-- 🔭 I’m currently working on an ML-based AI Content Detector that analyzes social media posts.
-- 🌱 I’m currently learning more about computer vision and PyTorch. 
-- ⚡ Fun fact: **My cat, McFurry, is named after a McDonald's dessert (McFlurry).** 🍦
-</p>
+# Hi there! I'm Ivan 👋
 
-# Socials:
-<div align="center">
-  <a href="ivanli9355@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  
-  <a href="https://linkedin.com/in/li-ivan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
+## 👤 About Me:
+- 👨 Pronouns: He/Him/His
+- 🔭 I’m currently working on an **ML-based AI Content Detector** that analyzes social media posts.
+- 🌱 I’m currently learning more about **Computer Vision and PyTorch**. 
+- ❤️ I love to play video games, go camping, and listen to music. 
+- ⚡ Fun fact: My cat, **McFurry**, is named after a McDonald's dessert, McFlurry.
 
-<br>
-
-# Languages & Tools:
+## 🛠️ Languages & Tools:
 <p align="center">
     <img src="https://skillicons.dev/icons?i=py,js,c,cpp,aws,docker,flask,git,github,html,linkedin,maven,mysql,nodejs,raspberrypi,react&perline=8" />
 </p>
 
-# 🐍 My Contributions
+## 🌐 Where to Find Me:
 <div align="center">
+  <a href="https://github.com/ivan-li-gith">
+    <img height="50" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://linkedin.com/in/li-ivan">
+    <img height="50" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+## 📈 My Contributions
+<div align="center">
+  <img width=450 src="https://github-readme-stats.vercel.app/api/top-langs?username=ivan-li-gith&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Ivan's Most Used Languages" />
+
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{ivan-li-gith}/{ivan-li-gith}/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{ivan-li-gith}/{ivan-li-gith}/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/{ivan-li-gith}/{ivan-li-gith}/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ivan-li-gith/ivan-li-gith/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ivan-li-gith/ivan-li-gith/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ivan-li-gith/ivan-li-gith/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
