@@ -1,18 +1,18 @@
 # Hi there! I'm Ivan 👋
 
-## 👤 About Me:
+## 👤 About Me
 - 👨 Pronouns: He/Him/His
 - 🔭 I’m currently working on an **ML-based AI Content Detector** that analyzes social media posts.
 - 🌱 I’m currently learning more about **Computer Vision and PyTorch**. 
 - ❤️ I love to play video games, go camping, and listen to music. 
 - ⚡ Fun fact: My cat, **McFurry**, is named after a McDonald's dessert, McFlurry.
 
-## 🛠️ Languages & Tools:
+## 🛠️ Languages & Tools
 <p align="center">
     <img src="https://skillicons.dev/icons?i=py,js,c,cpp,aws,docker,flask,git,github,html,linkedin,maven,mysql,nodejs,raspberrypi,react&perline=8" />
 </p>
 
-## 🌐 Where to Find Me:
+## 🌐 Where to Find Me
 <div align="center">
   <a href="https://github.com/ivan-li-gith">
     <img height="50" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
