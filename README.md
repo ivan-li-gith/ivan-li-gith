@@ -1,7 +1,9 @@
 # Hi there 👋
+<p aligh="center">
 - 🔭 I’m currently working on an ML-based AI Content Detector that analyzes social media posts.
 - 🌱 I’m currently learning more about computer vision and PyTorch. 
 - ⚡ Fun fact: **My cat, McFurry, is named after a McDonald's dessert (McFlurry).** 🍦
+</p>
 
 # Socials:
 <div align="center">
