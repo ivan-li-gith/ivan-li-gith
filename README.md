@@ -21,3 +21,11 @@
     <img src="https://skillicons.dev/icons?i=py,js,c,cpp,aws,docker,flask,git,github,html,linkedin,maven,mysql,nodejs,raspberrypi,react&perline=8" />
 </p>
 
+# 🐍 My Contributions
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
