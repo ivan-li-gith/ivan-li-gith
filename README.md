@@ -1,7 +1,7 @@
-# About Me:
-- I’m currently working on a Raspberry Pi 5 smart display to centralize my tasks, reminders, and any important events coming up. <br>
-- I’m currently learning more about machine learning and AI. <br>
-- Fun fact: My cat's name (McFurry) is inspired by the delicious McDonald's dessert, McFlurry.
+# Hi there 👋
+- 🔭 I’m currently working on an ML-based AI Content Detector that analyzes social media posts.
+- 🌱 I’m currently learning more about computer vision and PyTorch. 
+- ⚡ Fun fact: **My cat, McFurry, is named after a McDonald's dessert (McFlurry).** 🍦
 
 # Socials:
 <div align="center">
