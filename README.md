@@ -2,8 +2,8 @@
 
 ## 👤 About Me
 - 👨 Pronouns: He/Him/His
-- 🔭 I’m currently working on an **ML-based AI Content Detector** that analyzes social media posts.
-- 🌱 I’m currently learning more about **Computer Vision and PyTorch**. 
+- 🔭 I’m currently building a **Spam Text Detector** with PyTorch to learn the fundamentals of Machine Learning and text classification.
+- 🌱 I’m currently learning more about **PyTorch** to build more complex machine learning models.
 - ❤️ I love to play video games, go camping, and listen to music. 
 - ⚡ Fun fact: My cat, **McFurry**, is named after a McDonald's dessert, McFlurry.
 
